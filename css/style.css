@@ -9989,11 +9989,16 @@ h6,
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 3vh;
-  /* background-color: #444; */
-  /* color: white; */
+  background-color: #444;
+  color: white;
+}
+.logcard{
+  background-color:white;
 }
 
-
+.hd3{
+  color: white;
+}
 
 
 .date3{
